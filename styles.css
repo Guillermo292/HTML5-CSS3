@@ -1,35 +1,42 @@
-header{
-    margin-left: 500px;
+header {
     height: 100px;
+    text-align: center;
 }
 
-
-h1 {font-size: 50px;
+h1 {
+    font-size: 50px;
 }
 
+.section-title{
+    width: 100%;
+}
 
-h2{ 
-
+h2 {
     background-color: grey;
-    margin-left: 350px;
-    margin-right: 150px;
+    padding: 10px 0 10px 30px;
 }
-    img{
-            height: 95px;
-            margin-left: 400px; 
-        }
-    p{
-        margin-left: 500px;
-        margin-top: -80px;
-        font-size: 20px;
-        margin-right: 500px;
+
+.info-container{
+    margin: 15px 300px;
+}
+
+img {
+    height: 150px;
+    vertical-align: top;
+    float: left;
+}
+
+p {
+    font-size: 20px;
+}
+
+h2{
+    font-size: 50px;
+}
+
+.info-container {
+    margin: 15px 300px;
+}
 
 
-    }
-             
-            
-        
-    
-         
-    
 
